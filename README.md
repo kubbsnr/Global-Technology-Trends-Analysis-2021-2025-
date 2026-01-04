@@ -25,4 +25,4 @@ Open it in Microsoft Power BI Desktop.
 
 Use the time slicer to filter specific periods and observe dynamic changes.
 
-Author: Kübra Siner LinkedIn: [LinkedIn Profil Linkin]
+Author: Kübra Siner LinkedIn: https://www.linkedin.com/in/kübra-siner/
